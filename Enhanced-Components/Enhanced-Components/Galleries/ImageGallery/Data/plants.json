@@ -1,0 +1,75 @@
+[
+    {
+        "id": "cactus",
+        "name": "Cactus",
+        "image": "cactus",
+        "description": "Cacti are succulent plants adapted to arid climates."
+    },
+    {
+        "id": "daffodil",
+        "name": "Daffodil",
+        "image": "daffodil",
+        "description": "Daffodils are cheerful spring flowers with trumpet-like blooms."
+    },
+    {
+        "id": "daisy",
+        "name": "Daisy",
+        "image": "daisy",
+        "description": "Daisies are simple yet charming flowers often associated with innocence."
+    },
+    {
+        "id": "lavender",
+        "name": "Lavender",
+        "image": "lavender",
+        "description": "Lavender is a fragrant herb used in aromatherapy and cooking."
+    },
+    {
+        "id": "lily",
+        "name": "Lily",
+        "image": "lily",
+        "description": "Lilies are known for their elegance and come in various colors."
+    },
+    {
+        "id": "orchid",
+        "name": "Orchid",
+        "image": "orchid",
+        "description": "Orchids are exotic flowers with intricate and diverse appearances."
+    },
+    {
+        "id": "rose",
+        "name": "Rose",
+        "image": "rose",
+        "description": "The rose is a classic flower symbolizing love and beauty."
+    },
+    {
+        "id": "sunflower",
+        "name": "Sunflower",
+        "image": "sunflower",
+        "description": "Sunflowers are large, bright flowers that follow the sun."
+    },
+    {
+        "id": "tulip",
+        "name": "Tulip",
+        "image": "tulip",
+        "description": "Tulips are popular spring flowers with vibrant colors."
+    },
+    {
+        "id": "jasmine",
+        "name": "Jasmine",
+        "image": "jasmine",
+        "description": "Jasmine flowers are prized for their sweet fragrance."
+    },
+    {
+        "id": "carnation",
+        "name": "Carnation",
+        "image": "carnation",
+        "description": "Carnations are popular for their ruffled appearance and wide range of colors."
+    },
+    {
+        "id": "violet",
+        "name": "Violet",
+        "image": "violet",
+        "description": "Violets are small and delicate flowers often associated with modesty and simplicity."
+    }
+]
+

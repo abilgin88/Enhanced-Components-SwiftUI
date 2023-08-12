@@ -7,6 +7,7 @@ Welcome to the **SwiftUI Enhanced Components** repository! This reusable and cus
 - **Motion Animation View:** Add a touch of dynamic motion to your user interface with the Motion Animation View. This view randomly animates circles across the screen, creating an engaging and visually pleasing effect. Easily customize parameters like size, color, and animation characteristics.
 
 
+
 ## Getting Started
 
 To use these components in your SwiftUI projects, follow these steps:
