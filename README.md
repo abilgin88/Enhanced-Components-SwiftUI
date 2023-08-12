@@ -6,6 +6,7 @@ Welcome to the **SwiftUI Enhanced Components** repository! This reusable and cus
 
 - **Motion Animation View:** Add a touch of dynamic motion to your user interface with the Motion Animation View. This view randomly animates circles across the screen, creating an engaging and visually pleasing effect. Easily customize parameters like size, color, and animation characteristics.
 
+- **Image Gallery View** is a versatile SwiftUI component that allows you to create dynamic galleries of plant images or any other visual content. This component is particularly useful when you want to display a collection of images in an interactive and visually appealing manner. By using the Image Gallery View, you can easily create a gallery layout that adjusts to different screen sizes and orientations.
 
 
 ## Getting Started
