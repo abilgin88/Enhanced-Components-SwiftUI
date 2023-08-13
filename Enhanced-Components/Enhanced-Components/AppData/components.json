@@ -1,0 +1,16 @@
+[
+    {
+        "id": "motion-animation",
+        "name": "Motion Animation",
+        "image": "motion-animation",
+        "type" : "Animation",
+        "description": "Lorem"
+    },
+    {
+        "id": "image-gallery",
+        "name": "Image Gallery",
+        "image": "image-gallery",
+        "type" : "Gallery",
+        "description": "Lorem"
+    }
+]

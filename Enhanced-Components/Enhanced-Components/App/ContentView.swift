@@ -8,12 +8,20 @@
 import SwiftUI
 
 struct ContentView: View {
+    
+    let components: [Components] = Bundle.main.decode("components.json")
+    
     var body: some View {
-        ZStack {
-            ImageGalleryView()
-        }
-
+        NavigationView {
+            List {
+                ForEach(components) { item in
+                    ListItemView(components: item)
+                }  //: LOOP
+            } //: List
+            .navigationBarTitle("Companents", displayMode: .inline)
+        } //: NAVIGATION
     }
+    
 }
 
 struct ContentView_Previews: PreviewProvider {
