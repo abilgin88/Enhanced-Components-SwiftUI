@@ -1,0 +1,73 @@
+[
+  {
+    "id": "1",
+    "name": "Hyde Park",
+    "latitude": 51.5074,
+    "longitude": -0.1657,
+    "image": "hyde_park"
+  },
+  {
+    "id": "2",
+    "name": "Buckingham Palace",
+    "latitude": 51.5014,
+    "longitude": -0.1419,
+    "image": "buckingham_palace"
+  },
+  {
+    "id": "3",
+    "name": "Tower Bridge",
+    "latitude": 51.5055,
+    "longitude": -0.0754,
+    "image": "tower_bridge"
+  },
+  {
+    "id": "4",
+    "name": "British Museum",
+    "latitude": 51.5194,
+    "longitude": -0.1270,
+    "image": "british_museum"
+  },
+  {
+    "id": "5",
+    "name": "Big Ben",
+    "latitude": 51.5007,
+    "longitude": -0.1246,
+    "image": "big_ben"
+  },
+  {
+    "id": "6",
+    "name": "London Eye",
+    "latitude": 51.5033,
+    "longitude": -0.1195,
+    "image": "london_eye"
+  },
+  {
+    "id": "7",
+    "name": "Westminster Abbey",
+    "latitude": 51.4993,
+    "longitude": -0.1273,
+    "image": "westminster_abbey"
+  },
+  {
+    "id": "8",
+    "name": "Covent Garden",
+    "latitude": 51.5117,
+    "longitude": -0.1240,
+    "image": "covent_garden"
+  },
+  {
+    "id": "9",
+    "name": "St. Paul's Cathedral",
+    "latitude": 51.5138,
+    "longitude": -0.0984,
+    "image": "st_pauls_cathedral"
+  },
+  {
+    "id": "10",
+    "name": "Trafalgar Square",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "image": "trafalgar_square"
+  }
+]
+

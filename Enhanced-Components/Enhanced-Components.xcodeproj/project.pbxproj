@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0D1FC51C2A89D2E200AB2416 /* locationsLondon.json in Resources */ = {isa = PBXBuildFile; fileRef = 0D1FC51B2A89D2E200AB2416 /* locationsLondon.json */; };
+		0D1FC51E2A89D30200AB2416 /* LocationLondonModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D1FC51D2A89D30200AB2416 /* LocationLondonModels.swift */; };
+		0D1FC5202A89D3A800AB2416 /* LondonPlacesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D1FC51F2A89D3A800AB2416 /* LondonPlacesView.swift */; };
+		0D1FC5252A89D7B200AB2416 /* LocationInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D1FC5242A89D7B200AB2416 /* LocationInfoView.swift */; };
+		0D1FC5272A89EE7200AB2416 /* MapAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D1FC5262A89EE7200AB2416 /* MapAnnotationView.swift */; };
+		0D1FC5292A8B1D2300AB2416 /* MapRegionProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D1FC5282A8B1D2300AB2416 /* MapRegionProvider.swift */; };
 		0D274CF12A840F5400DB5714 /* Enhanced_ComponentsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D274CF02A840F5400DB5714 /* Enhanced_ComponentsApp.swift */; };
 		0D274CF32A840F5400DB5714 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D274CF22A840F5400DB5714 /* ContentView.swift */; };
 		0D274CF52A840F5500DB5714 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0D274CF42A840F5500DB5714 /* Assets.xcassets */; };
@@ -28,6 +34,12 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0D1FC51B2A89D2E200AB2416 /* locationsLondon.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = locationsLondon.json; sourceTree = "<group>"; };
+		0D1FC51D2A89D30200AB2416 /* LocationLondonModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationLondonModels.swift; sourceTree = "<group>"; };
+		0D1FC51F2A89D3A800AB2416 /* LondonPlacesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LondonPlacesView.swift; sourceTree = "<group>"; };
+		0D1FC5242A89D7B200AB2416 /* LocationInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationInfoView.swift; sourceTree = "<group>"; };
+		0D1FC5262A89EE7200AB2416 /* MapAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapAnnotationView.swift; sourceTree = "<group>"; };
+		0D1FC5282A8B1D2300AB2416 /* MapRegionProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapRegionProvider.swift; sourceTree = "<group>"; };
 		0D274CED2A840F5400DB5714 /* Enhanced-Components.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Enhanced-Components.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D274CF02A840F5400DB5714 /* Enhanced_ComponentsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Enhanced_ComponentsApp.swift; sourceTree = "<group>"; };
 		0D274CF22A840F5400DB5714 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -60,6 +72,59 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0D1FC51A2A89D1A200AB2416 /* Maps */ = {
+			isa = PBXGroup;
+			children = (
+				0D1FC52B2A8B2FEB00AB2416 /* AnnotatedMapWithInfoOverlay */,
+			);
+			path = Maps;
+			sourceTree = "<group>";
+		};
+		0D1FC5212A89D76800AB2416 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				0D1FC5242A89D7B200AB2416 /* LocationInfoView.swift */,
+				0D1FC5262A89EE7200AB2416 /* MapAnnotationView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		0D1FC5222A89D77100AB2416 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				0D1FC51B2A89D2E200AB2416 /* locationsLondon.json */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		0D1FC5232A89D77C00AB2416 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				0D1FC51D2A89D30200AB2416 /* LocationLondonModels.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		0D1FC52A2A8B20C200AB2416 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				0D1FC5282A8B1D2300AB2416 /* MapRegionProvider.swift */,
+			);
+			path = Utilities;
+			sourceTree = "<group>";
+		};
+		0D1FC52B2A8B2FEB00AB2416 /* AnnotatedMapWithInfoOverlay */ = {
+			isa = PBXGroup;
+			children = (
+				0D1FC51F2A89D3A800AB2416 /* LondonPlacesView.swift */,
+				0D1FC5232A89D77C00AB2416 /* Model */,
+				0D1FC5222A89D77100AB2416 /* Data */,
+				0D1FC5212A89D76800AB2416 /* View */,
+				0D1FC52A2A8B20C200AB2416 /* Utilities */,
+			);
+			path = AnnotatedMapWithInfoOverlay;
+			sourceTree = "<group>";
+		};
 		0D274CE42A840F5400DB5714 = {
 			isa = PBXGroup;
 			children = (
@@ -88,6 +153,7 @@
 				0D274D0B2A841BF500DB5714 /* AppColors */,
 				0D274CFE2A840FDC00DB5714 /* Animations */,
 				0D892B102A87C6F600792B6F /* Galleries */,
+				0D1FC51A2A89D1A200AB2416 /* Maps */,
 				0D274CF62A840F5500DB5714 /* Preview Content */,
 			);
 			path = "Enhanced-Components";
@@ -314,6 +380,7 @@
 				0D274CF82A840F5500DB5714 /* Preview Assets.xcassets in Resources */,
 				0D892B1B2A889DC700792B6F /* components.json in Resources */,
 				0D892B012A87BF9900792B6F /* plants.json in Resources */,
+				0D1FC51C2A89D2E200AB2416 /* locationsLondon.json in Resources */,
 				0D274CF52A840F5500DB5714 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -331,13 +398,18 @@
 				0D892B0D2A87C6AA00792B6F /* PlantImageView.swift in Sources */,
 				0D892B122A87C70B00792B6F /* ImageGalleryView.swift in Sources */,
 				0D274D052A84111C00DB5714 /* MotionAnimationView.swift in Sources */,
+				0D1FC5272A89EE7200AB2416 /* MapAnnotationView.swift in Sources */,
 				0D892B0F2A87C6C600792B6F /* SliderView.swift in Sources */,
 				0D892B042A87C56100792B6F /* PlantModel.swift in Sources */,
 				0D892B0A2A87C68800792B6F /* ImageGalleryExtension.swift in Sources */,
 				0D892B1A2A889C1100792B6F /* ComponentModel.swift in Sources */,
 				0D274D082A8413F200DB5714 /* RandomOpacityAndScaleModifier.swift in Sources */,
+				0D1FC5252A89D7B200AB2416 /* LocationInfoView.swift in Sources */,
 				0D274D0A2A841B1700DB5714 /* AppColors.swift in Sources */,
+				0D1FC5292A8B1D2300AB2416 /* MapRegionProvider.swift in Sources */,
 				0D274CF32A840F5400DB5714 /* ContentView.swift in Sources */,
+				0D1FC51E2A89D30200AB2416 /* LocationLondonModels.swift in Sources */,
+				0D1FC5202A89D3A800AB2416 /* LondonPlacesView.swift in Sources */,
 				0D274CF12A840F5400DB5714 /* Enhanced_ComponentsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

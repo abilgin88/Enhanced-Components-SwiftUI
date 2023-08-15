@@ -10,16 +10,9 @@ import SwiftUI
 struct ContentView: View {
     
     let components: [Components] = Bundle.main.decode("components.json")
-    
+
     var body: some View {
-        NavigationView {
-            List {
-                ForEach(components) { item in
-                    ListItemView(components: item)
-                }  //: LOOP
-            } //: List
-            .navigationBarTitle("Companents", displayMode: .inline)
-        } //: NAVIGATION
+        LondonPlacesView()
     }
     
 }
