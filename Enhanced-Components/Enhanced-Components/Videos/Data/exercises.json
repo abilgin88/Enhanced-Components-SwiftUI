@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "name": "Push-Ups",
+    "category": "Upper Body",
+    "description": "Classic bodyweight exercise targeting the chest, shoulders, and triceps.",
+    "video": "Push-Ups.mp4"
+  },
+  {
+    "id": 2,
+    "name": "Squats",
+    "category": "Lower Body",
+    "description": "Compound lower body exercise for building leg strength.",
+    "video": "Squats.mp4"
+  },
+  {
+    "id": 3,
+    "name": "Plank",
+    "category": "Core",
+    "description": "Isometric core exercise that also engages the shoulders and back.",
+    "video": "Plank.mp4"
+  },
+  {
+    "id": 4,
+    "name": "Lunges",
+    "category": "Lower Body",
+    "description": "Unilateral lower body exercise to improve balance and leg strength.",
+    "video": "Lunges.mp4"
+  },
+  {
+    "id": 5,
+    "name": "Burpees",
+    "category": "Full Body",
+    "description": "High-intensity exercise involving a combination of a squat, push-up, and jump.",
+    "video": "Burpees.mp4"
+  },
+  {
+    "id": 6,
+    "name": "Crunches",
+    "category": "Core",
+    "description": "Basic abdominal exercise targeting the rectus abdominis.",
+    "video": "Crunches.mp4"
+  },
+  {
+    "id": 7,
+    "name": "Mountain-Climbers",
+    "category": "Cardio",
+    "description": "Dynamic exercise that improves cardiovascular fitness and engages multiple muscle groups.",
+    "video": "Mountain_Climbers.mp4"
+  },
+  {
+    "id": 8,
+    "name": "Supermans",
+    "category": "Back",
+    "description": "Back extension exercise to strengthen the lower back muscles.",
+    "video": "Supermans.mp4"
+  }
+]
+

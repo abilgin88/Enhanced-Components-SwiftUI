@@ -13,6 +13,15 @@
 		0D1FC5252A89D7B200AB2416 /* LocationInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D1FC5242A89D7B200AB2416 /* LocationInfoView.swift */; };
 		0D1FC5272A89EE7200AB2416 /* MapAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D1FC5262A89EE7200AB2416 /* MapAnnotationView.swift */; };
 		0D1FC5292A8B1D2300AB2416 /* MapRegionProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D1FC5282A8B1D2300AB2416 /* MapRegionProvider.swift */; };
+		0D1FC52F2A8B3C8A00AB2416 /* exercises.json in Resources */ = {isa = PBXBuildFile; fileRef = 0D1FC52E2A8B3C8A00AB2416 /* exercises.json */; };
+		0D1FC5322A8B3CA600AB2416 /* ExerciseModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D1FC5312A8B3CA600AB2416 /* ExerciseModel.swift */; };
+		0D1FC5342A8B3D8900AB2416 /* VideoGalleryListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D1FC5332A8B3D8900AB2416 /* VideoGalleryListView.swift */; };
+		0D1FC5362A8B3FB300AB2416 /* ExerciseListItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D1FC5352A8B3FB300AB2416 /* ExerciseListItemView.swift */; };
+		0D1FC53D2A8C885900AB2416 /* Lunges.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 0D1FC53A2A8C885900AB2416 /* Lunges.mp4 */; };
+		0D1FC53E2A8C885900AB2416 /* Plank.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 0D1FC53B2A8C885900AB2416 /* Plank.mp4 */; };
+		0D1FC53F2A8C885900AB2416 /* Push-Ups.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 0D1FC53C2A8C885900AB2416 /* Push-Ups.mp4 */; };
+		0D1FC5412A8C968600AB2416 /* VideoPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D1FC5402A8C968600AB2416 /* VideoPlayerView.swift */; };
+		0D1FC5442A8C96CC00AB2416 /* VideoPlayerHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D1FC5432A8C96CC00AB2416 /* VideoPlayerHelper.swift */; };
 		0D274CF12A840F5400DB5714 /* Enhanced_ComponentsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D274CF02A840F5400DB5714 /* Enhanced_ComponentsApp.swift */; };
 		0D274CF32A840F5400DB5714 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D274CF22A840F5400DB5714 /* ContentView.swift */; };
 		0D274CF52A840F5500DB5714 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0D274CF42A840F5500DB5714 /* Assets.xcassets */; };
@@ -31,6 +40,10 @@
 		0D892B172A889BD100792B6F /* ListItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D892B162A889BD100792B6F /* ListItemView.swift */; };
 		0D892B1A2A889C1100792B6F /* ComponentModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D892B192A889C1100792B6F /* ComponentModel.swift */; };
 		0D892B1B2A889DC700792B6F /* components.json in Resources */ = {isa = PBXBuildFile; fileRef = 0D892B142A889A3000792B6F /* components.json */; };
+		0D8A989F2A8F4940009D4E44 /* Burpees.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 0D8A989E2A8F4940009D4E44 /* Burpees.mp4 */; };
+		0D8A98A32A8F4AC7009D4E44 /* Squats.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 0D8A98A02A8F4AC6009D4E44 /* Squats.mp4 */; };
+		0D8A98A42A8F4AC7009D4E44 /* Crunches.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 0D8A98A12A8F4AC6009D4E44 /* Crunches.mp4 */; };
+		0D8A98A52A8F4AC7009D4E44 /* Mountain-Climbers.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 0D8A98A22A8F4AC7009D4E44 /* Mountain-Climbers.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +53,15 @@
 		0D1FC5242A89D7B200AB2416 /* LocationInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationInfoView.swift; sourceTree = "<group>"; };
 		0D1FC5262A89EE7200AB2416 /* MapAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapAnnotationView.swift; sourceTree = "<group>"; };
 		0D1FC5282A8B1D2300AB2416 /* MapRegionProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapRegionProvider.swift; sourceTree = "<group>"; };
+		0D1FC52E2A8B3C8A00AB2416 /* exercises.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = exercises.json; sourceTree = "<group>"; };
+		0D1FC5312A8B3CA600AB2416 /* ExerciseModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExerciseModel.swift; sourceTree = "<group>"; };
+		0D1FC5332A8B3D8900AB2416 /* VideoGalleryListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoGalleryListView.swift; sourceTree = "<group>"; };
+		0D1FC5352A8B3FB300AB2416 /* ExerciseListItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExerciseListItemView.swift; sourceTree = "<group>"; };
+		0D1FC53A2A8C885900AB2416 /* Lunges.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Lunges.mp4; sourceTree = "<group>"; };
+		0D1FC53B2A8C885900AB2416 /* Plank.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Plank.mp4; sourceTree = "<group>"; };
+		0D1FC53C2A8C885900AB2416 /* Push-Ups.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Push-Ups.mp4"; sourceTree = "<group>"; };
+		0D1FC5402A8C968600AB2416 /* VideoPlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerView.swift; sourceTree = "<group>"; };
+		0D1FC5432A8C96CC00AB2416 /* VideoPlayerHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerHelper.swift; sourceTree = "<group>"; };
 		0D274CED2A840F5400DB5714 /* Enhanced-Components.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Enhanced-Components.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D274CF02A840F5400DB5714 /* Enhanced_ComponentsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Enhanced_ComponentsApp.swift; sourceTree = "<group>"; };
 		0D274CF22A840F5400DB5714 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -59,6 +81,10 @@
 		0D892B142A889A3000792B6F /* components.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = components.json; sourceTree = "<group>"; };
 		0D892B162A889BD100792B6F /* ListItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListItemView.swift; sourceTree = "<group>"; };
 		0D892B192A889C1100792B6F /* ComponentModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComponentModel.swift; sourceTree = "<group>"; };
+		0D8A989E2A8F4940009D4E44 /* Burpees.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Burpees.mp4; sourceTree = "<group>"; };
+		0D8A98A02A8F4AC6009D4E44 /* Squats.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Squats.mp4; sourceTree = "<group>"; };
+		0D8A98A12A8F4AC6009D4E44 /* Crunches.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Crunches.mp4; sourceTree = "<group>"; };
+		0D8A98A22A8F4AC7009D4E44 /* Mountain-Climbers.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mountain-Climbers.mp4"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,6 +151,72 @@
 			path = AnnotatedMapWithInfoOverlay;
 			sourceTree = "<group>";
 		};
+		0D1FC52C2A8B371100AB2416 /* Videos */ = {
+			isa = PBXGroup;
+			children = (
+				0D1FC5332A8B3D8900AB2416 /* VideoGalleryListView.swift */,
+				0D1FC5302A8B3C9500AB2416 /* Model */,
+				0D1FC52D2A8B3C6A00AB2416 /* Data */,
+				0D1FC5372A8B3FB900AB2416 /* View */,
+			);
+			path = Videos;
+			sourceTree = "<group>";
+		};
+		0D1FC52D2A8B3C6A00AB2416 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				0D1FC52E2A8B3C8A00AB2416 /* exercises.json */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		0D1FC5302A8B3C9500AB2416 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				0D1FC5312A8B3CA600AB2416 /* ExerciseModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		0D1FC5372A8B3FB900AB2416 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				0D1FC5352A8B3FB300AB2416 /* ExerciseListItemView.swift */,
+				0D1FC5402A8C968600AB2416 /* VideoPlayerView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		0D1FC5382A8BEB4C00AB2416 /* AppVideo */ = {
+			isa = PBXGroup;
+			children = (
+				0D1FC5392A8BEB5500AB2416 /* VideoGallery */,
+			);
+			path = AppVideo;
+			sourceTree = "<group>";
+		};
+		0D1FC5392A8BEB5500AB2416 /* VideoGallery */ = {
+			isa = PBXGroup;
+			children = (
+				0D1FC53B2A8C885900AB2416 /* Plank.mp4 */,
+				0D1FC53C2A8C885900AB2416 /* Push-Ups.mp4 */,
+				0D8A989E2A8F4940009D4E44 /* Burpees.mp4 */,
+				0D8A98A12A8F4AC6009D4E44 /* Crunches.mp4 */,
+				0D8A98A22A8F4AC7009D4E44 /* Mountain-Climbers.mp4 */,
+				0D8A98A02A8F4AC6009D4E44 /* Squats.mp4 */,
+				0D1FC53A2A8C885900AB2416 /* Lunges.mp4 */,
+			);
+			path = VideoGallery;
+			sourceTree = "<group>";
+		};
+		0D1FC5422A8C96B400AB2416 /* AppHalper */ = {
+			isa = PBXGroup;
+			children = (
+				0D1FC5432A8C96CC00AB2416 /* VideoPlayerHelper.swift */,
+			);
+			path = AppHalper;
+			sourceTree = "<group>";
+		};
 		0D274CE42A840F5400DB5714 = {
 			isa = PBXGroup;
 			children = (
@@ -144,6 +236,8 @@
 		0D274CEF2A840F5400DB5714 /* Enhanced-Components */ = {
 			isa = PBXGroup;
 			children = (
+				0D1FC5422A8C96B400AB2416 /* AppHalper */,
+				0D1FC5382A8BEB4C00AB2416 /* AppVideo */,
 				0D892B182A889BF600792B6F /* AppModel */,
 				0D892B152A889BB700792B6F /* AppView */,
 				0D892B132A8899D700792B6F /* AppData */,
@@ -153,6 +247,7 @@
 				0D274D0B2A841BF500DB5714 /* AppColors */,
 				0D274CFE2A840FDC00DB5714 /* Animations */,
 				0D892B102A87C6F600792B6F /* Galleries */,
+				0D1FC52C2A8B371100AB2416 /* Videos */,
 				0D1FC51A2A89D1A200AB2416 /* Maps */,
 				0D274CF62A840F5500DB5714 /* Preview Content */,
 			);
@@ -377,11 +472,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0D8A989F2A8F4940009D4E44 /* Burpees.mp4 in Resources */,
 				0D274CF82A840F5500DB5714 /* Preview Assets.xcassets in Resources */,
 				0D892B1B2A889DC700792B6F /* components.json in Resources */,
 				0D892B012A87BF9900792B6F /* plants.json in Resources */,
 				0D1FC51C2A89D2E200AB2416 /* locationsLondon.json in Resources */,
+				0D8A98A32A8F4AC7009D4E44 /* Squats.mp4 in Resources */,
+				0D8A98A52A8F4AC7009D4E44 /* Mountain-Climbers.mp4 in Resources */,
+				0D1FC53D2A8C885900AB2416 /* Lunges.mp4 in Resources */,
 				0D274CF52A840F5500DB5714 /* Assets.xcassets in Resources */,
+				0D1FC53E2A8C885900AB2416 /* Plank.mp4 in Resources */,
+				0D1FC53F2A8C885900AB2416 /* Push-Ups.mp4 in Resources */,
+				0D8A98A42A8F4AC7009D4E44 /* Crunches.mp4 in Resources */,
+				0D1FC52F2A8B3C8A00AB2416 /* exercises.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -397,6 +500,7 @@
 				0D274D032A84103100DB5714 /* AnimationRandomHelpers.swift in Sources */,
 				0D892B0D2A87C6AA00792B6F /* PlantImageView.swift in Sources */,
 				0D892B122A87C70B00792B6F /* ImageGalleryView.swift in Sources */,
+				0D1FC5362A8B3FB300AB2416 /* ExerciseListItemView.swift in Sources */,
 				0D274D052A84111C00DB5714 /* MotionAnimationView.swift in Sources */,
 				0D1FC5272A89EE7200AB2416 /* MapAnnotationView.swift in Sources */,
 				0D892B0F2A87C6C600792B6F /* SliderView.swift in Sources */,
@@ -408,9 +512,13 @@
 				0D274D0A2A841B1700DB5714 /* AppColors.swift in Sources */,
 				0D1FC5292A8B1D2300AB2416 /* MapRegionProvider.swift in Sources */,
 				0D274CF32A840F5400DB5714 /* ContentView.swift in Sources */,
+				0D1FC5342A8B3D8900AB2416 /* VideoGalleryListView.swift in Sources */,
 				0D1FC51E2A89D30200AB2416 /* LocationLondonModels.swift in Sources */,
 				0D1FC5202A89D3A800AB2416 /* LondonPlacesView.swift in Sources */,
 				0D274CF12A840F5400DB5714 /* Enhanced_ComponentsApp.swift in Sources */,
+				0D1FC5322A8B3CA600AB2416 /* ExerciseModel.swift in Sources */,
+				0D1FC5442A8C96CC00AB2416 /* VideoPlayerHelper.swift in Sources */,
+				0D1FC5412A8C968600AB2416 /* VideoPlayerView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -545,8 +653,8 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIStatusBarStyle = UIStatusBarStyleDarkContent;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -574,8 +682,8 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIStatusBarStyle = UIStatusBarStyleDarkContent;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

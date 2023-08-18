@@ -12,7 +12,7 @@ struct ContentView: View {
     let components: [Components] = Bundle.main.decode("components.json")
 
     var body: some View {
-        LondonPlacesView()
+        VideoGalleryListView()
     }
     
 }
