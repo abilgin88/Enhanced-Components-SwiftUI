@@ -65,12 +65,11 @@ struct AdvancedGridShowcaseView: View {
             .navigationBarTitle("Plants", displayMode: .large)
             .toolbar {
                 ToolbarItem(placement: .navigationBarTrailing) {
-                    HStack {
+                    HStack {ç   
                         // Button to switch to List view
                         Button(action: {
                             isGridViewActive = false
                             haptic.impactOccurred()
-                            gridSwitch()
                         }) {
                             Image(systemName: "square.fill.text.grid.1x2")
                                 .font(.title2)
