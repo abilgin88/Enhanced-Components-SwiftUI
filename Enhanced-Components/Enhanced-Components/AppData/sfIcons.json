@@ -1,0 +1,86 @@
+[
+    {
+        "id": "1",
+        "name": "circle.fill",
+        "category": "Shapes",
+        "icon": "circle.fill"
+    },
+    {
+        "id": "2",
+        "name": "square.fill",
+        "category": "Shapes",
+        "icon": "square.fill"
+    },
+    {
+        "id": "3",
+        "name": "heart.fill",
+        "category": "Hearts",
+        "icon": "heart.fill"
+    },
+    {
+        "id": "4",
+        "name": "star.fill",
+        "category": "Stars",
+        "icon": "star.fill"
+    },
+    {
+        "id": "5",
+        "name": "sun.max.fill",
+        "category": "Weather",
+        "icon": "sun.max.fill"
+    },
+    {
+        "id": "6",
+        "name": "moon.fill",
+        "category": "Weather",
+        "icon": "moon.fill"
+    },
+    {
+        "id": "7",
+        "name": "cloud.fill",
+        "category": "Weather",
+        "icon": "cloud.fill"
+    },
+    {
+        "id": "8",
+        "name": "bolt.fill",
+        "category": "Weather",
+        "icon": "bolt.fill"
+    },
+    {
+        "id": "9",
+        "name": "house.fill",
+        "category": "Buildings",
+        "icon": "house.fill"
+    },
+    {
+        "id": "10",
+        "name": "car.fill",
+        "category": "Vehicles",
+        "icon": "car.fill"
+    },
+    {
+        "id": "11",
+        "name": "person.fill",
+        "category": "People",
+        "icon": "person.fill"
+    },
+    {
+        "id": "12",
+        "name": "book.fill",
+        "category": "Education",
+        "icon": "book.fill"
+    },
+    {
+        "id": "13",
+        "name": "globe",
+        "category": "Education",
+        "icon": "globe"
+    },
+    {
+        "id": "14",
+        "name": "gamecontroller.fill",
+        "category": "Entertainment",
+        "icon": "gamecontroller.fill"
+    }
+]

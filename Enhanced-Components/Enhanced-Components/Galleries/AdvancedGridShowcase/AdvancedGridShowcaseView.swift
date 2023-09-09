@@ -65,7 +65,7 @@ struct AdvancedGridShowcaseView: View {
             .navigationBarTitle("Plants", displayMode: .large)
             .toolbar {
                 ToolbarItem(placement: .navigationBarTrailing) {
-                    HStack {ç   
+                    HStack {
                         // Button to switch to List view
                         Button(action: {
                             isGridViewActive = false
