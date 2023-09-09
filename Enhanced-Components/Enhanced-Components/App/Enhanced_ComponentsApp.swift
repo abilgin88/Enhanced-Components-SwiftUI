@@ -11,7 +11,7 @@ import SwiftUI
 struct Enhanced_ComponentsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentViewNB()
         }
     }
 }
